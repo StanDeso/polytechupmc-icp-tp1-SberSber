@@ -12,7 +12,7 @@ int main()
   pg.print();
   
   Path c(5,4,5);
-  c.print()
+  c.print();
   std::cout<< pg.generate(c) << std::endl;
 
   
